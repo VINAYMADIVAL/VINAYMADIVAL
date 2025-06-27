@@ -51,5 +51,5 @@ I’m a first-year undergraduate at **Dayanand Sagar College of Engineering**, p
 I had an **older** [**GitHub account**](https://github.com/xitub) where I used to post every small thing I learned while exploring **Web Development**.  
 This **new account** is focused on showcasing **refined and innovative projects** that truly represent my skills and passion for tech.
 
-🚀 Feel free to explore my repositories, and I’d love to connect or collaborate on exciting open-source projects!  
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Feel free to explore my repositories, and I’d love to connect or collaborate on exciting open-source projects!  
 
