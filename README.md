@@ -9,11 +9,10 @@ I’m a first-year undergraduate at **Dayanand Sagar College of Engineering**, p
 - **Blockchain & Web3**: Exploring blockchain technologies and web3 projects specifically DApps and Defi.
 - **Problem Solving**: Strong focus on algorithmic problem-solving  
 
-## 🎮 Projects:  will be uploaded soon....
-<!-- Here are a few of my notable projects:  
-- **[project-name](link)**: description 
--->
-
+## 🎮 Projects:  
+ Here are a few of my notable projects: 
+ 
+- **[BandNameStudio](https://bandnamestudio.netlify.app/)**: This is a simple web app that creates random band names using adjectives and nouns.
 ## 🎓 Education:  
 - **Dayanand Sagar College of Engineering** - Bachelor's Degree (2028)  
 - **Arjuna Science PU College, Dharwad** - 12th Grade (95.33%) 
