@@ -15,8 +15,8 @@ I’m a first-year undergraduate at **Dayanand Sagar College of Engineering**, p
 - **[BandNameStudio](https://bandnamestudio.netlify.app/)**: This is a simple web app that creates random band names using adjectives and nouns.
 ## 🎓 Education:  
 - **Dayanand Sagar College of Engineering** - Bachelor's Degree (2028)  
-- **Arjuna Science PU College, Dharwad** - 12th Grade (95.33%) 
-- **Shri Marikamba Government High School, Sirsi** - 10th Grade (99.36%)   
+- **Arjuna Science PU College, Dharwad** - 12th Grade
+- **Shri Marikamba Government High School, Sirsi** - 10th Grade   
 
 ## 🧑‍💻 Certifications:  
 - **[Problem Solving](https://www.hackerrank.com/certificates/26518b421ebf)**  
