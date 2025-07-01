@@ -13,6 +13,7 @@ I’m a first-year undergraduate at **Dayanand Sagar College of Engineering**, p
  Here are a few of my notable projects: 
  
 - **[BandNameStudio](https://bandnamestudio.netlify.app/)**: This is a simple web app that creates random band names using adjectives and nouns.
+- **[dayblogs](https://dayblogs.netlify.app/)**: A fully serverless Blog application using Express.js, EJS, and Netlify Function
 ## 🎓 Education:  
 - **Dayanand Sagar College of Engineering** - Bachelor's Degree (2028)  
 - **Arjuna Science PU College, Dharwad** - 12th Grade
