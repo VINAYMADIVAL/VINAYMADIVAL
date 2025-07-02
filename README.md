@@ -13,7 +13,8 @@ I’m a first-year undergraduate at **Dayanand Sagar College of Engineering**, p
  Here are a few of my notable projects: 
  
 - **[BandNameStudio](https://bandnamestudio.netlify.app/)**: This is a simple web app that creates random band names using adjectives and nouns.
-- **[dayblogs](https://dayblogs.netlify.app/)**: A fully serverless Blog application using Express.js, EJS, and Netlify Function
+- **[dayblogs](https://dayblogs.netlify.app/)**: A fully serverless Blog application using Express.js, EJS, and Netlify Function.
+- **[Travel-Tracker-App](https://travel-tracker-app-1mty.onrender.com/)**: A concise travel journal web app that lets users log and review countries they've visited with a quick search feature.
 ## 🎓 Education:  
 - **Dayanand Sagar College of Engineering** - Bachelor's Degree (2028)  
 - **Arjuna Science PU College, Dharwad** - 12th Grade
