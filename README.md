@@ -15,6 +15,7 @@ I’m a first-year undergraduate at **Dayanand Sagar College of Engineering**, p
 - **[BandNameStudio](https://bandnamestudio.netlify.app/)**: This is a simple web app that creates random band names using adjectives and nouns.
 - **[dayblogs](https://dayblogs.netlify.app/)**: A fully serverless Blog application using Express.js, EJS, and Netlify Function.
 - **[Travel-Tracker-App](https://travel-tracker-app-1mty.onrender.com/)**: A concise travel journal web app that lets users log and review countries they've visited with a quick search feature.
+- **[Secrets](https://secrets-u8u5.onrender.com/)**: A secure, server-rendered Node.js application that lets users anonymously share their secrets.Inspired fron [Whisper](https://en.wikipedia.org/wiki/Whisper_(app))
 ## 🎓 Education:  
 - **Dayanand Sagar College of Engineering** - Bachelor's Degree (2028)  
 - **Arjuna Science PU College, Dharwad** - 12th Grade
