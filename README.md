@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Hello, I'm Vinay Nagesh Madival👋  
 
-I’m a first-year undergraduate at **Dayanand Sagar College of Engineering**, passionate about **Blockchain**, **Web3**, **Crypto**, and **Cyber Security**. I'm always exploring new technologies and building innovative solutions to tackle real-world problems.  
+I’m a second-year undergraduate at **Dayanand Sagar College of Engineering**, passionate about **Web-developement**,**Cyber Security**. I'm always exploring new technologies and building innovative solutions to tackle real-world problems.  
 
 ## 🛠️ Technologies I Work With:  
 - **Languages**: Python, C, C++, JavaScript 
