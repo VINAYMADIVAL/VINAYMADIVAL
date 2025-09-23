@@ -19,7 +19,7 @@ I’m a second-year undergraduate at **Dayanand Sagar College of Engineering**, 
 - **[Secrets](https://secrets-u8u5.onrender.com/)**: A secure, server-rendered Node.js application that lets users anonymously share their secrets.Inspired fron [Whisper](https://en.wikipedia.org/wiki/Whisper_(app)).
 - **[Keeper](https://c6cypc.csb.app/)**: A front-end only **React** app to keep track of all your thoughts as notes.Inspired from [Google Keep](https://keep.google.com/)
 ## 🎓 Education:  
-- **Dayanand Sagar College of Engineering** - Bachelor's Degree (2028)  
+- **Dayanand Sagar College of Engineering, Bengaluru** - Bachelor's Degree (2028)  
 - **Arjuna Science PU College, Dharwad** - 12th Grade
 - **Shri Marikamba Government High School, Sirsi** - 10th Grade   
 
