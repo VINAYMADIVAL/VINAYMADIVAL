@@ -32,7 +32,9 @@ I’m a second-year undergraduate at **Dayanand Sagar College of Engineering**, 
 - **LinkedIn**: [Vinay Nagesh Madival](https://www.linkedin.com/in/vinay-madival-ab9059320/)  
 - **GitHub**: [Vinay Nagesh Madival](https://github.com/VINAYMADIVAL)  
 - **LeetCode**: [LeetCode Profile](https://leetcode.com/u/vinaymadival/)  
-- **HackerRank**: [HackerRank Profile](https://www.hackerrank.com/profile/vinaymadival)  
+- **HackerRank**: [HackerRank Profile](https://www.hackerrank.com/profile/vinaymadival)
+- **CodeChef**: [CodeChef Profile](https://www.codechef.com/users/iforgot)
+- **Codeforces**: [Codeforces Profile](https://codeforces.com/profile/iforgotred)
 
 ### 📊 GitHub Stats
 <div align="center">
