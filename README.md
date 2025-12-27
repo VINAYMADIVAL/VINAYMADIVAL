@@ -1,12 +1,11 @@
 ## Hi there 👋
 # Hello, I'm Vinay Nagesh Madival👋  
 
-I’m a second-year undergraduate at **Dayanand Sagar College of Engineering**, passionate about **Web-developement**,**Cyber Security**. I'm always exploring new technologies and building innovative solutions to tackle real-world problems.  
+I’m a tech enthusiast learning tech everyday... 
 
 ## 🛠️ Technologies I Work With:  
-- **Languages**: Python, C, C++, JavaScript 
-- **Web Development**: HTML, CSS, JavaScript, MERN
-- **Blockchain & Web3**: Exploring blockchain technologies and web3 projects specifically DApps and Defi.
+- **Languages**: JavaScript, Python, C, C++ 
+- **Web Development**: MERN, HTML, Tailwind CSS, JavaScript
 - **Problem Solving**: Strong focus on algorithmic problem-solving  
 
 ## 🎮 Projects:  
@@ -18,14 +17,6 @@ I’m a second-year undergraduate at **Dayanand Sagar College of Engineering**, 
 - **[Todo-App](https://todo-app-y4pm.onrender.com)**: A simple, server-rendered Todo app it allows users to add, edit, and delete tasks, with data persisted in a database.
 - **[Secrets](https://secrets-u8u5.onrender.com/)**: A secure, server-rendered Node.js application that lets users anonymously share their secrets.Inspired fron [Whisper](https://en.wikipedia.org/wiki/Whisper_(app)).
 - **[Keeper](https://c6cypc.csb.app/)**: A front-end only **React** app to keep track of all your thoughts as notes.Inspired from [Google Keep](https://keep.google.com/)
-## 🎓 Education:  
-- **Dayanand Sagar College of Engineering, Bengaluru** - Bachelor's Degree (2028)  
-- **Arjuna Science PU College, Dharwad** - 12th Grade
-- **Shri Marikamba Government High School, Sirsi** - 10th Grade   
-
-## 🧑‍💻 Certifications:  
-- **[Problem Solving](https://www.hackerrank.com/certificates/26518b421ebf)**  
-**Note**: my username changed from creamy_cloud to vinaymadival and certficate has old name.
   
 
 ## 🌍 Let's Connect:  
@@ -36,16 +27,6 @@ I’m a second-year undergraduate at **Dayanand Sagar College of Engineering**, 
 - **CodeChef**: [CodeChef Profile](https://www.codechef.com/users/iforgot)
 - **Codeforces**: [Codeforces Profile](https://codeforces.com/profile/iforgotred)
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VINAYMADIVAL&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VINAYMADIVAL&theme=tokyonight&hide_border=true" width="47%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VINAYMADIVAL&theme=tokyo-night&hide_border=true" width="90%" />
-</div>
-
 ---
 ### 🐍 Contribution Snake
 <div align="center">
@@ -53,9 +34,5 @@ I’m a second-year undergraduate at **Dayanand Sagar College of Engineering**, 
 </div>
 
 ---
-## 📌 Note  
-I had an **older** [**GitHub account**](https://github.com/xitub) where I used to post every small thing I learned while exploring **Web Development**.  
-This **new account** is focused on showcasing **refined and innovative projects** that truly represent my skills and passion for tech.
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Feel free to explore my repositories, and I’d love to connect or collaborate on exciting open-source projects!  
 
