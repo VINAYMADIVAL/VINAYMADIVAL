@@ -1,15 +1,9 @@
-## Hi there 👋
-# Hello, I'm Vinay Nagesh Madival👋  
+---
+<img width="1280" height="2727" alt="heartbleed_explanation_2x" src="https://github.com/user-attachments/assets/f843a894-15ab-4b8e-b1a3-a8925ad79d3a" />
 
-I’m a tech enthusiast learning tech everyday... 
-
-## 🛠️ Technologies I Work With:  
-- **Languages**: JavaScript, Python, C, C++ 
-- **Web Development**: MERN, HTML, Tailwind CSS, JavaScript
-- **Problem Solving**: Strong focus on algorithmic problem-solving  
-
+---
 ## 🎮 Projects:  
- Here are a few of my notable projects: 
+ Here are a few of my projects: 
  
 - **[BandNameStudio](https://bandnamestudio.netlify.app/)**: This is a simple web app that creates random band names using adjectives and nouns.
 - **[dayblogs](https://dayblogs.netlify.app/)**: A fully serverless Blog application using Express.js, EJS, and Netlify Function.
